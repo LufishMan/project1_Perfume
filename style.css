@@ -268,7 +268,7 @@ li{
 
 @media (max-width: 1190px) {
     .banner h1{
-    font-size: 40px;
+        font-size: 40px;
     }
     .navbar_D{
         /* 隱藏選單 */
